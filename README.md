@@ -11,4 +11,4 @@
 #### I am Tanmay Hiremath. 
 
 
-![Tanmay's Github Stats](https://github-readme-stats.vercel.app/api?username=TanmayHiremath&show_icons=true&theme=light)
+![Tanmay's Github Stats](https://github-readme-stats.vercel.app/api?username=TanmayHiremath&show_icons=true&theme=dark)
