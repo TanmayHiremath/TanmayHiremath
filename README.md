@@ -12,4 +12,5 @@
 
 
 ![Tanmay's Github Stats](https://github-readme-stats.vercel.app/api?username=TanmayHiremath&show_icons=true&theme=dark)
+<br>
 <img src="https://profile-counter.glitch.me/tanmayhiremath/count.svg" alt="vistor count" width="50%" />
